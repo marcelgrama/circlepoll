@@ -1,0 +1,16 @@
+export const authSignin = '/auth/signin';
+export const authSignup = '/auth/signup';
+export const authUser = '/auth/user';
+export const circle = '/circle/';
+export const pollEvent = '/poll/event';
+export const questionPoll = '/poll/question';
+export const questionPollResults = '/poll/question/results';
+export const pollAll = '/poll/all';
+export const votes = '/poll/question/vote';
+export const eventVotes = '/poll/event/vote';
+export const circlePermission = '/circlepermissions';
+export const pollEventResults = 'poll/event/results';
+export const permisions = '/permisions/';
+export const invitation = '/invitation';
+export const invitationAccept = '/invitation/accept';
+export const circleInvitation = '/invitation/circle';
